@@ -1,0 +1,64 @@
+# Jekyll configuration
+markdown: kramdown
+highlighter: rouge
+paginate: 100 # it will paginate after this number
+language: 'ko-kr'
+
+# edit baseurl to simply '/' if using as your personal page (instead of a project page)
+baseurl: /
+
+# Website info
+title: Hwasub Lee
+description: Simply doing imperfect
+cover: assets/images/blog-cover.jpg
+# logo: assets/images/blog-icon.png
+# logo_dark: assets/images/favicon.png
+favicon: assets/images/favicon.png
+production_url: https://lee.hwasub.com
+
+# Social info
+navigation: True # show the navbar links
+subscribers: True # you need to connect an external service for this to work,
+# if 'True' the submit button is disabled for now, but you can change that
+# by editing `_includes/subscribe-form.html`
+# twitter: tryghost # replace by your username
+# facebook: ghost # replace by your username
+
+# Disqus
+disqus: False
+# disqus_shortname: jekyller # replace with your disqus username
+
+# Google Analytics
+google_analytics: UA-44241406-1 # replace with your GA tracking identifier
+
+# Permalinks
+permalink: /:title
+# permalink: /author/:author
+# permalink: /tag/:tag
+
+plugins: [jekyll-paginate, jekyll-feed]
+
+feed:
+  path: feed.xml
+
+safe: False
+lsi: False
+
+exclude:
+  - assets/css
+  - _sites
+  - node_modules
+  - vendor
+  - .travis.yml
+  - Gemfile
+  - Gemfile.lock
+  - GHOST.txt
+  - gulpfile.js
+  - LICENSE
+  - package.json
+  - Rakefile
+  - README.md
+  - script.py
+  - changelog.md
+  - "*.Rmd"
+  - .git*
