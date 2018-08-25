@@ -14,7 +14,7 @@ cover: assets/images/blog-cover.jpg
 # logo: assets/images/blog-icon.png
 # logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://lee.hwasub.com
+production_url: https://lee.hwasub.com/
 
 # Social info
 navigation: True # show the navbar links

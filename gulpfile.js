@@ -68,3 +68,18 @@ gulp.task('zip', ['css'], function() {
 gulp.task('default', ['build'], function () {
     gulp.start('watch');
 });
+
+gulp.task('deploy', function () {
+    var processors = [
+        easyimport,
+        customProperties,
+        colorFunction(),
+        autoprefixer({browsers: ['last 2 versions']}),
+        cssnano()
+    ];
+
+    return gulp.src('assets/css/*.css')
+        .on('error', swallowError)
+        .pipe(postcss(processors))
+        .pipe(gulp.dest('assets/built/'))
+});
