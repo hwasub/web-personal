@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/do-what-is-great.jpg
+cover:  assets/images/bg-do-what-is-great.jpg
 navigation: True
 title: Docker and TeXLive
 date: 2018-08-25 21:51:17 +0900
