@@ -36,6 +36,12 @@ permalink: /:title
 # permalink: /author/:author
 # permalink: /tag/:tag
 
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  blanklines: false
+  profile: false
+
 plugins: [jekyll-paginate, jekyll-feed]
 
 feed:
