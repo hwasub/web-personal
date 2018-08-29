@@ -15,7 +15,7 @@ TeX은 굉장히 편리한 도구이지만, 컴파일 환경을 구축하기에�
 
 그래서 TeX Live를 통채로 Dockerize한 패키지를 하나 만들어 두었다.
 
-```
+{% highlight console %}
 $ docker pull minisena/docker-texlive-alpine
 $ docker run -v `pwd`:/home --rm -it minisena/docker-texlive-alpine
 ...
@@ -23,7 +23,7 @@ $ docker run -v `pwd`:/home --rm -it minisena/docker-texlive-alpine
 ...
 # exit
 $ 
-```
+{% endhighlight %}
 
  * Dockerfile: <https://github.com/hwasub/docker-texlive-alpine>
  * Docker Hub: <https://hub.docker.com/r/minisena/docker-texlive-alpine>
