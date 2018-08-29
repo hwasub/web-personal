@@ -37,10 +37,8 @@ permalink: /:title
 # permalink: /tag/:tag
 
 compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  blanklines: false
-  profile: false
+  clippings: []
+  comments: ["<!--", "-->"]
 
 plugins: [jekyll-paginate, jekyll-feed]
 
