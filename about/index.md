@@ -18,4 +18,4 @@ subclass: 'post page'
 ### Links
  * [GitHub Userpage](https://github.com/hwasub)
  * [Keybase.io Userpage](https://keybase.io/hwasub)
- * [GPG Public Key](https://lee.hwasub.com/gpg/hwasublee-pubkey.asc)
+ * GPG Public Key [(on keybase)](https://keybase.io/hwasub/pgp_keys.asc) [(self-hosted)](https://lee.hwasub.com/gpg/hwasublee-pubkey.asc)
