@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/hwasub
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lee.hwasub.com
+  * I am hwasub (https://keybase.io/hwasub) on keybase.
+  * I have a public key ASCxCXru88NEYbJphXd6A5lNXwpOSEDJNaQwq6ted-R-Bwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202c5e1ca121bd1fdde7fd5d5065d133ec4d6c20a71f4190d8833c2214f26be78f0a",
+      "host": "keybase.io",
+      "kid": "0120b1097aeef3c34461b26985777a03994d5f0a4e4840c935a430abab5e77e47e070a",
+      "uid": "844e25b1a4d6b35da7e2e9f2e324d819",
+      "username": "hwasub"
+    },
+    "merkle_root": {
+      "ctime": 1535801531,
+      "hash": "adeb9ef98db5dcdec6f07d7447f307fb18dfcbf75e9807ea9d359a2406a36e9fce8fad6cbac49620e5029aa350f71f07e9f3ba374c7c1d8f9496971038d86748",
+      "hash_meta": "fe016c12d71ca76c8fca04cc8a9ec055b51d459cf8584d28b67328b5947e8d65",
+      "seqno": 3548700
+    },
+    "service": {
+      "entropy": "98lNAWUS976m1XmhSLMxTDts",
+      "hostname": "lee.hwasub.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.2"
+  },
+  "ctime": 1535801543,
+  "expire_in": 504576000,
+  "prev": "799e1230740791552ff8d92030e0dd72e9565660927dee574be62bc0d654c6a1",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsQl67vPDRGGyaYV3egOZTV8KTkhAyTWkMKurXnfkfgcKp3BheWxvYWTESpcCCMQgeZ4SMHQHkVUv+NkgMODdculWVmCSfe5XS+YrwNZUxqHEIIg+oH964SKn5/MkaU38bqOIs3x5dDDCnFQ7ckkRz8BCAgHCo3NpZ8RAvkL5VceBDnkNAW58KamkJEeG9p8llufENW+hDDUJ6s/lcRZc8ocyF3znpq4qJZVkmS5FylKyUlB/3rybpIK8AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGq4NkUZ5mExcy+l1e69zdE0SWJiJVAaKxsqxj+9dcB9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hwasub

@@ -14,3 +14,8 @@ subclass: 'post page'
 
 ### Acknowledgements
  * This site has been compiled by [Jekyll](https://jekyllrb.com/) with [Jasper2](http://jekyllthemes.org/themes/jasper2/) theme.
+
+### Links
+ * [GitHub Userpage](https://github.com/hwasub)
+ * [Keybase.io Userpage](https://keybase.io/hwasub)
+ * [GPG Public Key](https://keybase.io/hwasub/pgp_keys.asc?fingerprint=9f372d605827f22bbbd6be2492b484ceff4d343e)
