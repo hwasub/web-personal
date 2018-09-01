@@ -18,4 +18,4 @@ subclass: 'post page'
 ### Links
  * [GitHub Userpage](https://github.com/hwasub)
  * [Keybase.io Userpage](https://keybase.io/hwasub)
- * [GPG Public Key](https://keybase.io/hwasub/pgp_keys.asc?fingerprint=9f372d605827f22bbbd6be2492b484ceff4d343e)
+ * [GPG Public Key](https://lee.hwasub.com/gpg/hwasublee-pubkey.asc)
